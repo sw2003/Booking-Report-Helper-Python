@@ -1,10 +1,4 @@
-to run
 
-pip install requirements.txt
-python3 app.py
-
-
-uses tkinter, openpyxl, threading libraries
 
 Booking Report Helper
 
@@ -56,6 +50,9 @@ It should look like this
 ![image](https://user-images.githubusercontent.com/41968946/210104360-07f46603-fecf-406c-8dce-a3279dafdbe5.png)
 
 Feel free to rename it to anything you want
+
+
+
 
 
 
